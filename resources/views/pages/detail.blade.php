@@ -9,7 +9,7 @@
 
 <!-- intro 4 -->
 
-<body class="topbg-1" style="background-image: url('{{ asset('img/jumbotron.jpg') }}')">
+<body background="/img/jumbotron.jpg" class="topbg-1">
     <div>
         <div id="intro" class="basic-1 text-light">
             <div class="container">

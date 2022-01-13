@@ -2,7 +2,7 @@
 @section('content')
 <!-- Background & Jumbotron  -->
 
-<body class="topbg-1" style="background-image: url('{{ asset('img/jumbotron.jpg') }}')">
+<body background="/img/jumbotron.jpg" class="topbg-1">
     <div>
         <div>
             <div>
