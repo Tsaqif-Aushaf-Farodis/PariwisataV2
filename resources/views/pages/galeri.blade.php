@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
 
 <div>
-    <div class="topbg-5" background="/img/jumbotron.jpg">
+    <div class="topbg-5" style="background-image: url('{{ asset('img/jumbotron3.jpg') }}')">
         <div>
             <div class="position-custom-5 text-light">
                 <div>

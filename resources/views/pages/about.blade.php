@@ -23,7 +23,7 @@
                         </div>
                         <div class="feature des-align">
                             <div class="feature-inner">
-                                <img class="circle-avatar" src="{{ asset('/img/about/tsaqif.png') }}" alt="Avatar"
+                                <img class="circle-avatar" src="{{ asset('/img/about/tsaqif2.jpg') }}" alt="Avatar"
                                     style="width:200px">
                                 <br>
                                 <br>
@@ -33,7 +33,7 @@
                         </div>
                         <div class="feature des-align">
                             <div class="feature-inner">
-                                <img class="circle-avatar" src="{{ asset('/img/about/musa.jpg') }}" alt="Avatar"
+                                <img class="circle-avatar" src="{{ asset('/img/about/musa2.jpg') }}" alt="Avatar"
                                     style="width:200px">
                                 <br>
                                 <br>

@@ -4,7 +4,7 @@
 
 <div>
 
-    <div class="topbg-4" background="/img/jumbotron.jpg">
+    <div class="topbg-4" style="background-image: url('{{ asset('img/jumbotron2.jpg') }}')">
         <div>
             <div class="position-custom-4 text-light">
                 <div>
